@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1493518071 source:c:\users\132\desktop\pisos\game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	<math.h>
+
